@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<install-datas ns="upsky-install-info">
+    <metas_list>
+        <meta name="file-type">text/xml</meta>
+        <meta name="charset">utf-8</meta>
+        <meta name="purpose">
+            Installation description of this application
+        </meta>
+
+    </metas_list>
+    <names type='MetaNames'>
+        <english>IPEngineer</english>
+        <chinese>IP获取器</chinese>
+    </names>
+    <descrption lang_english_name="chinese" lang="zh-hans|zh-cn">
+        IP获取器，是一个简易的，用Python3.6+tkinter+socket
+        编写的软件
+    </descrption>
+    <authors>
+        <names type="AuthorsNames">
+            <pepole group="UpSky">XieZheyuan</pepole>
+        </names>
+    </authors>
+    <rules type="privacy">
+        Get your IP
+    </rules>
+</install-datas>
